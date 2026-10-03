@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of giladx/flarum-rtl.** Not for installation: use [Packagist](https://packagist.org/packages/giladx/flarum-rtl) or the [upstream repository](https://github.com/Giladx/flarum-rtl).
 
-**0** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/giladx-flarum-rtl/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^0.1.0-beta.12`
+**2** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/giladx-flarum-rtl/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^0.1.0-beta.12`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.2` | 2020-05-14 | `^0.1.0` | [Browse](https://github.com/flarchive/giladx-flarum-rtl/tree/archive/v1.0.2) |
+| `1.0.3` | 2020-05-14 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/giladx-flarum-rtl/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/giladx-flarum-rtl.json](https://github.com/flarchive/archive-index/blob/main/packages/giladx-flarum-rtl.json)
 
